@@ -9,6 +9,7 @@ This repository builds and publishes a customized GitHub Actions runner image ba
 ## Features
 
 ### Pre-installed Languages & Runtimes
+
 - **Python** (3.7-3.12) with PyPy support
 - **Node.js** (16, 18, 20)
 - **Go** (1.19-1.21)
@@ -20,6 +21,7 @@ This repository builds and publishes a customized GitHub Actions runner image ba
 - **Swift** development tools
 
 ### Development Tools
+
 - **Git** version control
 - **GitHub CLI** (`gh`)
 - **Docker** and Docker Compose
@@ -33,6 +35,7 @@ This repository builds and publishes a customized GitHub Actions runner image ba
 - **Container tools**: AzCopy, Heroku CLI
 
 ### System Configuration
+
 - Ubuntu 22.04 LTS base
 - Optimized package sources and repositories
 - Pre-configured environment variables
